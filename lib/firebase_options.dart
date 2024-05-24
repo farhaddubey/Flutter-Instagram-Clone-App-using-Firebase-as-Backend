@@ -41,9 +41,9 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDHPaf22305yzbi23SZ6RxamtZJY6f26Yc',
-    appId: '1:834423712130:web:1351b8114d9813e5f7479b',
-    messagingSenderId: '834423712130',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
     projectId: 'setting-up-flutter',
     authDomain: 'setting-up-flutter.firebaseapp.com',
     storageBucket: 'setting-up-flutter.appspot.com',
@@ -51,16 +51,16 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA8tW5wJPNlDymz4d9KFPDOMu3a2FexGns',
-    appId: '1:834423712130:android:fc36c439711a7df3f7479b',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '834423712130',
     projectId: 'setting-up-flutter',
     storageBucket: 'setting-up-flutter.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDu_QSswAOHTP2NrKJSuCNpmvxQBtHyi2c',
-    appId: '1:834423712130:ios:f3cd6f7b0a363c8bf7479b',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '834423712130',
     projectId: 'setting-up-flutter',
     storageBucket: 'setting-up-flutter.appspot.com',
@@ -68,8 +68,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDu_QSswAOHTP2NrKJSuCNpmvxQBtHyi2c',
-    appId: '1:834423712130:ios:f3cd6f7b0a363c8bf7479b',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '834423712130',
     projectId: 'setting-up-flutter',
     storageBucket: 'setting-up-flutter.appspot.com',
@@ -77,8 +77,8 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDHPaf22305yzbi23SZ6RxamtZJY6f26Yc',
-    appId: '1:834423712130:web:bcb3961ce9581edbf7479b',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '834423712130',
     projectId: 'setting-up-flutter',
     authDomain: 'setting-up-flutter.firebaseapp.com',
