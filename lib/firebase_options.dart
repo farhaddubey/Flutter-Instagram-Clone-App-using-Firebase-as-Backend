@@ -79,7 +79,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: '',
     appId: '',
-    messagingSenderId: '834423712130',
+    messagingSenderId: '',
     projectId: 'setting-up-flutter',
     authDomain: 'setting-up-flutter.firebaseapp.com',
     storageBucket: 'setting-up-flutter.appspot.com',
