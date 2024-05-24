@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: '',
     appId: '',
-    messagingSenderId: '834423712130',
+    messagingSenderId: '',
     projectId: 'setting-up-flutter',
     storageBucket: 'setting-up-flutter.appspot.com',
   );
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: '',
     appId: '',
-    messagingSenderId: '834423712130',
+    messagingSenderId: '',
     projectId: 'setting-up-flutter',
     storageBucket: 'setting-up-flutter.appspot.com',
     iosBundleId: 'com.example.flutterInstagramLatest',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: '',
     appId: '',
-    messagingSenderId: '834423712130',
+    messagingSenderId: '',
     projectId: 'setting-up-flutter',
     storageBucket: 'setting-up-flutter.appspot.com',
     iosBundleId: 'com.example.flutterInstagramLatest',
